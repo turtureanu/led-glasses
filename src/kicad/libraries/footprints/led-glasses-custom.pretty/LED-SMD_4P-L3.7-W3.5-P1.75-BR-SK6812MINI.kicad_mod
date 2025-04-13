@@ -254,15 +254,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "660eb122-186a-4979-881d-037ac28b176b")
 	)
-	(model "${KIPRJMOD}/EASYEDA_MODELS/LED-SMD_4P-L3.7-W3.5-P1.75-BR-SK6812MINI.step"
+	(model "${KIPRJMOD}/3d-models/SK6812MINI-012.wrl"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 -1.65)
 		)
 		(scale
-			(xyz 1 1 1)
+			(xyz 0.4 0.4 0.4)
 		)
 		(rotate
-			(xyz 0 0 -0)
+			(xyz 0 0 0)
 		)
 	)
 )

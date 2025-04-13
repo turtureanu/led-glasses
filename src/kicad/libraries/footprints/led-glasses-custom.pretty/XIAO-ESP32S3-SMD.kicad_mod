@@ -448,4 +448,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "5ce30cad-4bff-46c5-842c-ffbd827b9c25")
 	)
+	(model "${KIPRJMOD}/3d-models/XIAO-ESP32S3 v2.step"
+		(offset
+			(xyz 6.125 -1.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
 )

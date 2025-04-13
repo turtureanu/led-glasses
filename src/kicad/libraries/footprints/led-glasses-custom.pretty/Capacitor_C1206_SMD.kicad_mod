@@ -214,7 +214,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "d3ca010e-ee86-4ddd-8ac0-86b9f920354a")
 	)
-	(model "${KIPRJMOD}/EASYEDA_MODELS/C1206_L3.2-W1.6-H1.3.step"
+	(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -222,7 +222,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 -0)
+			(xyz 0 0 0)
 		)
 	)
 )

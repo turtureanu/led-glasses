@@ -224,15 +224,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "70d71520-8992-4d68-b4f8-34861731cbed")
 	)
-	(model "${KIPRJMOD}/EASYEDA_MODELS/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
+	(model "${KIPRJMOD}/3d-models/SW_Push.wrl"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 -1.65)
 		)
 		(scale
-			(xyz 1 1 1)
+			(xyz 0.4 0.4 0.4)
 		)
 		(rotate
-			(xyz 0 0 -0)
+			(xyz 0 0 0)
 		)
 	)
 )
